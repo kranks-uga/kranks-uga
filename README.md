@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/kranks-uga">
-    <img src="https://komarev.com/ghpvc/?username=kranks-uga&label=Просмотры+профиля&color=58A6FF&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kranks-uga&label=профиль&color=58A6FF&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -17,8 +17,8 @@
 - 🔧 Интересуюсь низкоуровневым программированием — как код превращается в машинные инструкции
 - 💻 Пишу на **Java**, **C++**, **C**, работаю с **SQL**
 - 📚 Люблю разбираться в устройстве систем: память, компиляторы, ОС
-- 🌱 Сейчас изучаю: *(допишите — например, ассемблер / ОС / сети)*
-- 📫 Как со мной связаться: *(добавьте email / Telegram / LinkedIn)*
+- 🌱 Сейчас изучаю: *(Rust, c++, c, ассемблер / ОС / сети)*
+- 📫 Как со мной связаться: *(krepin1001@gmail.com / Telegram:https://t.me/kranksUga)*
 
 ---
 
