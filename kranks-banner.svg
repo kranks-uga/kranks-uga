@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="220" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="220" fill="url(#bg)"/>
+    <path fill="#ffffff" fill-opacity="0.08" d="M0 150 C 200 100, 350 200, 550 150 S 850 110, 1000 150 V220 H0 Z"/>
+    <path fill="#ffffff" fill-opacity="0.06" d="M0 180 C 220 140, 400 220, 600 180 S 880 150, 1000 185 V220 H0 Z"/>
+    <text x="500" y="105" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="68" font-weight="700" fill="#ffffff">kranks</text>
+    <text x="500" y="150" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="20" fill="#ffffff" fill-opacity="0.9">Low-level &amp; systems programming</text>
+    <text x="500" y="185" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#ffffff" fill-opacity="0.7">Java · C++ · C</text>
+  </g>
+</svg>
