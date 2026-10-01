@@ -51,6 +51,14 @@ I like understanding what happens *under the hood*: how source code turns into m
 ---
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kranks-uga/kranks-uga/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kranks-uga/kranks-uga/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kranks-uga/kranks-uga/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
 
 *"Understanding how it works makes you better at using it."*
 
